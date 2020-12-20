@@ -13,7 +13,7 @@ In current world of open information, there are lots of resources available for 
 - [Intro to Data Science by IBM](https://www.edx.org/course/intro-to-data-science)
 
 ## CONTRIBUTION GUIDELINES
-Please feel free to [fork this repository](/fork) and add any free data science, data analytics related resources and finally send a [PR](/pulls). I will review your PR and merge as early as possible.
+Please feel free to fork this repository and add any free data science, data analytics related resources and finally send a Pull Request. I will review your Pull Request and merge as early as possible.
 
-## LICESNE
-This repository is under MIT LICESNE.
+## LICENSE
+This repository is under [MIT LICENSE](/LICENSE).
