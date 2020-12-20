@@ -1,15 +1,29 @@
-# List of Resources to learn Data Analyst, Data Engineering or Data Science
+# List of Resources to learn Data Analytics, Data Engineering or Data Science
 
-## Motivation
+## MOTIVATION
 In current world of open information, there are lots of resources available for you to become a successful Data Analyst or Business Analyst or Data Engineer or Data Scientist. but these lots of resources are not organized everywhere. Currently I am a Bertelsmann - Udacity Scholarship recipents and our scholarship slack community lots of newcomer ask that where they can start or what other resources they can take to learn for developing their knowledge. that's why I created this repository to collect a list of resources into a single repository to help everyone get access of these resources. this repo only contains **FREE** resources or have at least a free access like **coursera.com** courses.
 
-## Udacity Free Courses
+### Udacity Free Courses
 - [Problem Solving with Advanced Analytics by Alteryx](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
+- [Reinforcement Learning by Georgia Institute of Technology](https://www.udacity.com/course/reinforcement-learning--ud600)
+- [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+- [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+- [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+- [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+- [Intro to Data Structures and Algorithms by Grow With Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+- [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+- [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud009app)
+- [Creating an Analytical Dataset by Alteryx](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
+- [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 
-## Cursera Free Courses
+### Cursera Free Courses
 - [AI for Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
 
-## Edx Free Courses
+### Edx Free Courses
 - [Intro to Data Science by IBM](https://www.edx.org/course/intro-to-data-science)
 
 ## CONTRIBUTION GUIDELINES
