@@ -34,6 +34,9 @@ In current world of open information, there are lots of resources available for 
 ### Edx Free Courses
 - [Intro to Data Science by IBM](https://www.edx.org/course/intro-to-data-science)
 
+### YouTube Resources
+- [Introduction to Data Analysis Using Excel Playlist](https://www.youtube.com/playlist?list=PL_onPhFCkVQjC-NEnfb7NXLskfFlzln7b)
+
 ## CONTRIBUTION GUIDELINES
 Please feel free to fork this repository and add any free data science, data analytics related resources and finally send a Pull Request. I will review your Pull Request and merge as early as possible.
 
