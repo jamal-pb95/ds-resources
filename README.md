@@ -22,6 +22,14 @@ In current world of open information, there are lots of resources available for 
 
 ### Cursera Free Courses
 - [AI for Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
+  #### IBM Data Analyst Professional Certificate
+  - [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
+  - [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst)
+  - [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=ibm-data-analyst)
+  - [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+  - [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
+  - [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
+  - [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
 
 ### Edx Free Courses
 - [Intro to Data Science by IBM](https://www.edx.org/course/intro-to-data-science)
