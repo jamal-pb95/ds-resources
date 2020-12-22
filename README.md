@@ -37,6 +37,10 @@ In current world of open information, there are lots of resources available for 
 ### YouTube Resources
 - [Introduction to Data Analysis Using Excel Playlist](https://www.youtube.com/playlist?list=PL_onPhFCkVQjC-NEnfb7NXLskfFlzln7b)
 
+### Cheatsheet
+- [MIT Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)
+- [Standford AI, ML, DS Cheatsheet](https://stanford.edu/~shervine/teaching/)
+
 ## CONTRIBUTION GUIDELINES
 Please feel free to fork this repository and add any free data science, data analytics related resources and finally send a Pull Request. I will review your Pull Request and merge as early as possible.
 
