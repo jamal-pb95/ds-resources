@@ -23,7 +23,7 @@ In current world of open information, there are lots of resources available for 
 ### Cursera Free Courses
 - [AI for Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
 
-#### IBM Data Analyst Professional Certificate
+  #### IBM Data Analyst Professional Certificate
   - [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
   - [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst)
   - [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=ibm-data-analyst)
@@ -34,7 +34,7 @@ In current world of open information, there are lots of resources available for 
 
 ### Edx Free Courses
 
-#### IBM Data Science Professional Certificate
+  #### IBM Data Science Professional Certificate
   - [Intro to Data Science](https://www.edx.org/course/intro-to-data-science)
   - [Data Science Tools](https://www.edx.org/course/data-science-tools)
   - [The Data Science Method](https://www.edx.org/course/data-science-method)
@@ -45,13 +45,13 @@ In current world of open information, there are lots of resources available for 
   - [Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
   - [Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project)
 
-#### UCSanDiegoX's Data Science MicroMasters® Program
+  #### UCSanDiegoX's Data Science MicroMasters® Program
   - [Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
   - [Probability and Statistics in Data Science using Python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-p)
   - [Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals-2)
   - [Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark)
   
-#### HarvardX's Data Science Professional Certificate
+  #### HarvardX's Data Science Professional Certificate
   - [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics)
   - [Data Science: Visualization](https://www.edx.org/course/data-science-visualization)
   - [Data Science: Probability](https://www.edx.org/course/data-science-probability)
