@@ -33,6 +33,7 @@ In current world of open information, there are lots of resources available for 
   - [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
 
 ### Edx Free Courses
+- [Data Science]()
 
   #### IBM Data Science Professional Certificate
   - [Intro to Data Science](https://www.edx.org/course/intro-to-data-science)
