@@ -34,6 +34,12 @@ In current world of open information, there are lots of resources available for 
 
 ### Edx Free Courses
 - [Intro to Data Science by IBM](https://www.edx.org/course/intro-to-data-science)
+
+#### UCSanDiegoX's Data Science MicroMasters® Program
+  - [Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
+  - [Probability and Statistics in Data Science using Python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-p)
+  - [Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals-2)
+  - [Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark)
   
 #### HarvardX's Data Science Professional Certificate
   - [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics)
