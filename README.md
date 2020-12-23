@@ -22,7 +22,8 @@ In current world of open information, there are lots of resources available for 
 
 ### Cursera Free Courses
 - [AI for Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
-  #### IBM Data Analyst Professional Certificate
+
+#### IBM Data Analyst Professional Certificate
   - [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
   - [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst)
   - [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=ibm-data-analyst)
@@ -33,6 +34,17 @@ In current world of open information, there are lots of resources available for 
 
 ### Edx Free Courses
 - [Intro to Data Science by IBM](https://www.edx.org/course/intro-to-data-science)
+  
+#### HarvardX's Data Science Professional Certificate
+  - [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics)
+  - [Data Science: Visualization](https://www.edx.org/course/data-science-visualization)
+  - [Data Science: Probability](https://www.edx.org/course/data-science-probability)
+  - [Data Science: Inference and Modeling](https://www.edx.org/course/data-science-inference-and-modeling)
+  - [Data Science: Productivity Tools](https://www.edx.org/course/data-science-productivity-tools)
+  - [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling)
+  - [Data Science: Linear Regression](https://www.edx.org/course/data-science-linear-regression)
+  - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning)
+  - [Data Science: Capstone](https://www.edx.org/course/data-science-capstone)
 
 ### YouTube Resources
 - [Introduction to Data Analysis Using Excel Playlist](https://www.youtube.com/playlist?list=PL_onPhFCkVQjC-NEnfb7NXLskfFlzln7b)
