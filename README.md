@@ -33,7 +33,17 @@ In current world of open information, there are lots of resources available for 
   - [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
 
 ### Edx Free Courses
-- [Intro to Data Science by IBM](https://www.edx.org/course/intro-to-data-science)
+
+#### IBM Data Science Professional Certificate
+  - [Intro to Data Science](https://www.edx.org/course/intro-to-data-science)
+  - [Data Science Tools](https://www.edx.org/course/data-science-tools)
+  - [The Data Science Method](https://www.edx.org/course/data-science-method)
+  - [SQL for Data Science](https://www.edx.org/course/sql-for-data-science)
+  - [Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science)
+  - [Analyzing Data with Python](https://www.edx.org/course/analyzing-data-with-python)
+  - [Visualizing Data with Python](https://www.edx.org/course/visualizing-data-with-python)
+  - [Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
+  - [Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project)
 
 #### UCSanDiegoX's Data Science MicroMasters® Program
   - [Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
