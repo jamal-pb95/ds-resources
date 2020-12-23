@@ -31,6 +31,12 @@ In current world of open information, there are lots of resources available for 
   - [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
   - [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
   - [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
+  
+  #### Learn SQL Basics for Data Science Specialization by UCDAVIS
+  - [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)
+  - [Data Wrangling, Analysis and AB Testing with SQL](https://www.coursera.org/learn/data-wrangling-analysis-abtesting)
+  - [Distributed Computing with Spark SQL](https://www.coursera.org/learn/spark-sql)
+  - [SQL for Data Science Capstone Project](https://www.coursera.org/learn/sql-data-science-capstone)
 
 ### Edx Free Courses
 - [Data Science]()
