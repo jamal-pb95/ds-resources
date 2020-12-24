@@ -22,6 +22,7 @@ In current world of open information, there are lots of resources available for 
 
 ### Cursera Free Courses
 - [AI for Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
+- [Introduction to Business Analytics: Communicating with Data](https://www.coursera.org/learn/intro-business-analytics)
 
   #### IBM Data Analyst Professional Certificate
   - [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
