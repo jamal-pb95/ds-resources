@@ -69,6 +69,13 @@ In current world of open information, there are lots of resources available for 
   - [Data Science: Linear Regression](https://www.edx.org/course/data-science-linear-regression)
   - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning)
   - [Data Science: Capstone](https://www.edx.org/course/data-science-capstone)
+  
+  #### EdinburghX's Predictive Analytics using Python
+  - [Introduction to Predictive Analytics using Python](https://www.edx.org/course/introduction-to-predictive-analytics-using-python)
+  - [Successfully Evaluating Predictive Modelling](https://www.edx.org/course/successfully-evaluating-predictive-modelling)
+  - [Statistical Predictive Modelling and Applications](https://www.edx.org/course/statistical-predictive-modelling-and-applications)
+  - [Predictive Analytics using Machine Learning](https://www.edx.org/course/predictive-analytics-using-machine-learning)
+  - [Predictive Analytics Final Project](https://www.edx.org/course/predictive-analytics-final-project)
 
 ### YouTube Resources
 - [Introduction to Data Analysis Using Excel Playlist](https://www.youtube.com/playlist?list=PL_onPhFCkVQjC-NEnfb7NXLskfFlzln7b)
