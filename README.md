@@ -52,6 +52,13 @@ In current world of open information, there are lots of resources available for 
   - [Visualizing Data with Python](https://www.edx.org/course/visualizing-data-with-python)
   - [Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
   - [Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project)
+  
+  #### IBM's Python Data Science Professional Certificate
+  - [Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science)
+  - [Analyzing Data with Python](https://www.edx.org/course/analyzing-data-with-python)
+  - [Visualizing Data with Python](https://www.edx.org/course/visualizing-data-with-python)
+  - [Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
+  - [Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project)
 
   #### UCSanDiegoX's Data Science MicroMasters® Program
   - [Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
