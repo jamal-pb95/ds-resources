@@ -7,7 +7,7 @@ In current world of open information, there are lots of resources available for 
 - [Udacity](#udacity)
 - [Edx](#edx)
 - [Coursera](#coursera)
-- [YouTube](#youtube)
+- [YouTube](#youtube-resources)
 - [Cheatsheet](#cheatsheet)
 
 ### Udacity Free Courses
