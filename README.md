@@ -1,11 +1,14 @@
-# List of Resources to learn:
-
-- ## Data Analytics, 
-- ## Data Engineering or 
-- ## Data Science
+# List of Resources to learn Data Analytics, Data Engineering or Data Science
 
 ## MOTIVATION
 In current world of open information, there are lots of resources available for you to become a successful Data Analyst or Business Analyst or Data Engineer or Data Scientist. but these lots of resources are not organized everywhere. Currently I am a Bertelsmann - Udacity Scholarship recipents and our scholarship slack community lots of newcomer ask that where they can start or what other resources they can take to learn for developing their knowledge. that's why I created this repository to collect a list of resources into a single repository to help everyone get access of these resources. this repo only contains **FREE** resources or have at least a free access like **coursera.com** courses.
+
+## Resource Group
+- [Udacity](#udacity)
+- [Edx](#edx)
+- [Coursera](#coursera)
+- [YouTube](#youtube)
+- [Cheatsheet](#cheatsheet)
 
 ### Udacity Free Courses
 - [Problem Solving with Advanced Analytics by Alteryx](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
