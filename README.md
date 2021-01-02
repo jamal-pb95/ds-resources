@@ -94,6 +94,7 @@ In current world of open information, there are lots of resources available for 
 ### YouTube Resources
 - [Introduction to Data Analysis Using Excel Playlist](https://www.youtube.com/playlist?list=PL_onPhFCkVQjC-NEnfb7NXLskfFlzln7b)
 - [Learning from Data by Caltech](https://work.caltech.edu/telecourse)
+- [Learn Linear Regression - Full Course](https://www.freecodecamp.org/news/linear-algebra-full-course/)
 
 ### Cheatsheet
 - [MIT Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)
