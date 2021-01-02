@@ -27,7 +27,7 @@ In current world of open information, there are lots of resources available for 
 - [Creating an Analytical Dataset by Alteryx](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 - [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 
-### Cursera Free Courses
+### Coursera Free Courses
 - [AI for Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
 - [Introduction to Business Analytics: Communicating with Data](https://www.coursera.org/learn/intro-business-analytics)
 
