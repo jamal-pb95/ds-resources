@@ -101,7 +101,7 @@ In current world of open information, there are lots of resources available for 
 - [Standford AI, ML, DS Cheatsheet](https://stanford.edu/~shervine/teaching/)
 
 ## CONTRIBUTION GUIDELINES
-Please feel free to fork this repository and add any free data science, data analytics related resources and finally send a Pull Request. I will review your Pull Request and merge as early as possible.
+Please feel free to fork this repository and add any free data science, data analytics related resources and finally send a Pull Request. I will review your Pull Request and merge accordingly.
 
 ## LICENSE
 This repository is under [MIT LICENSE](/LICENSE).
